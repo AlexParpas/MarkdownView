@@ -254,10 +254,6 @@ public class MarkdownView extends WebView {
         sb.append("<div class='container'>\n");
         sb.append(html);
         sb.append("</div>\n");
-        sb.append("<a href='#' class='scrollup'><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='25px' height='25px' viewBox='0 0 24 24' version='1.1'>\n" +
-                "<g><path fill='#fff' d='M 12 5.09375 L 11.28125 5.78125 L 2.28125 14.78125 L 3.71875 16.21875 L 12 7.9375 L 20.28125 16.21875 L 21.71875 14.78125 L 12.71875 5.78125 Z'></path>\n" +
-                "</g>\n" +
-                "</svg></a>");
         sb.append("</body>\n");
         sb.append("</html>");
 
@@ -296,10 +292,6 @@ public class MarkdownView extends WebView {
         sb.append("<div class='container'>\n");
         sb.append(html);
         sb.append("</div>\n");
-        sb.append("<a href='#' class='scrollup'><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='25px' height='25px' viewBox='0 0 24 24' version='1.1'>\n" +
-                "<g><path fill='#fff' d='M 12 5.09375 L 11.28125 5.78125 L 2.28125 14.78125 L 3.71875 16.21875 L 12 7.9375 L 20.28125 16.21875 L 21.71875 14.78125 L 12.71875 5.78125 Z'></path>\n" +
-                "</g>\n" +
-                "</svg></a>");
         sb.append("</body>\n");
         sb.append("</html>");
 
